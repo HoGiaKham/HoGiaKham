@@ -5,9 +5,9 @@
 
 🎓 I'm a final-year student at **Industrial University of Ho Chi Minh City**, majoring in Software Engineering.
 
-💼 I'm actively looking for a **Frontend or Fullstack Developer Internship** to apply my academic knowledge to real-world projects.
+💼 I'm actively looking for a **Frontend or Backend Developer Internship** to apply my academic knowledge to real-world projects.
 
-💻 I love building responsive web apps, working with real-time features, and applying cloud-based solutions.
+💻 I'm enthusiastic about building practical software solutions and constantly exploring new technologies to improve my skills.
 
 ---
 
