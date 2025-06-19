@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hồ Gia Khâm</h1>
-<h3 align="center">A passionate Software Engineering student from Vietnam</h3>
+<h1 align="center">Hello 👋, I'm Hồ Gia Khâm</h1>
+<h3 align="center">A Software Engineering student from Vietnam</h3>
 
 ---
 
