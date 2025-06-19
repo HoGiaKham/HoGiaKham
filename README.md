@@ -49,7 +49,7 @@ Developed a real-time chat app inspired by Zalo with features: 1-1/group messagi
 
 ### 📫 Contact Me:
 - **Email:** hogiakham1705@gmail.com  
-- **Location:** Thu Duc City, HCM City  
+- **Location:** Thu Duc City, Ho Chi Minh City
 - **GitHub:** [HoGiaKham](https://github.com/HoGiaKham)
 
 ---
