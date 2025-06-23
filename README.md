@@ -27,29 +27,30 @@ Vercel, Render
 
 ---
 
-### 🚀 Projects
+### 📂 Projects
 
-#### 💻 Website Laptop (Jan 2025 – May 2025)  
-**Frontend Web Developer**  
-Built an e-commerce web app with role-based access (admin, customer, shipper) and features like cart, orders, payments, and shipping.  
-- Developed UI with JavaScript & HTML/CSS  
-- Handled cart/payment logic and API integration  
-- Used Java, HeidiSQL, Docker for backend simulation  
+#### 🛒 Laptop Website (Mar 2025 – May 2025)  
+**Role:** Frontend Web Developer  
+An e-commerce platform with role-based access (admin, customer, shipper) and features like cart, orders, payments, and shipping.  
+- Built UI with HTML/CSS & JavaScript  
+- Developed shopping flow logic (add-to-cart, checkout, payment)  
+- Integrated backend APIs and simulated backend using Java & Docker  
 🔗 [GitHub - LaptopShop](https://github.com/HoGiaKham/LapTopStore)
 
-#### 💬 Zala Chat (Jan 2025 – Apr 2025)  
-**Fullstack Developer**  
-Developed a real-time chat app inspired by Zalo with features: 1-1/group messaging, nickname & color customization, file upload, and call (video/audio).  
-- Built React-based UI with Socket.IO for real-time messaging  
-- Managed state, color themes, nickname updates  
-- Integrated AWS (Cognito for auth, S3 for media upload, DynamoDB for chat data)  
+#### 💬 ZalaChat (Feb 2025 – Apr 2025)  
+**Role:** Fullstack Developer  
+A real-time chat application inspired by Zalo supporting 1-1/group messaging, nickname & theme customization, media upload, and video/audio calls.  
+- Designed ReactJS UI and implemented messaging via Socket.IO  
+- Developed profile features (nickname, color, avatar updates)  
+- Integrated AWS Cognito (auth), DynamoDB (chat data), and S3 (media uploads)  
 🔗 [GitHub - ZalaChat](https://github.com/HoGiaKham/ZalaChatWeb)
 
 ---
 
-### 📫 Contact Me:
+### 📫 Contact
+
 - **Email:** hogiakham1705@gmail.com  
-- **Location:** Thu Duc City, Ho Chi Minh City
+- **Location:** Thu Duc City, Ho Chi Minh City  
 - **GitHub:** [HoGiaKham](https://github.com/HoGiaKham)
 
 ---
