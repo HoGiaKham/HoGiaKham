@@ -5,25 +5,25 @@
 
 🎓 I'm a final-year student at **Industrial University of Ho Chi Minh City**, majoring in Software Engineering.
 
-💼 I'm actively looking for a **Frontend or Backend Developer Internship** to apply my academic knowledge to real-world projects.
+🚀 I'm actively seeking a **Software Engineering Internship** (Frontend / Backend / Fullstack) where I can apply my academic knowledge in real-world projects and grow in a collaborative environment.
 
-💻 I'm enthusiastic about building practical software solutions and constantly exploring new technologies to improve my skills.
+💡 I have solid experience in both front-end and back-end development through academic projects, and I enjoy building practical, user-centric software solutions.
 
 ---
 
-### 🧠 Technical Skills
+### ⚙️ Technical Skills
 
 **Front-end:**  
-HTML/CSS, TailwindCSS, JavaScript, React.js
+HTML/CSS, TailwindCSS, JavaScript, ReactJS
 
 **Back-end:**  
-Node.js, Express, Java  
+Node.js, Express, Java, Python, C  
 MySQL, MongoDB, HeidiSQL  
-AWS (Cognito, DynamoDB, S3)  
+AWS (Cognito, DynamoDB, S3)
 
 **DevOps & Tools:**  
 Git, Docker, Postman  
-Vercel, Render  
+Vercel, Render
 
 ---
 
