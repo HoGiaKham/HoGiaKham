@@ -17,9 +17,9 @@
 HTML/CSS, TailwindCSS, JavaScript, ReactJS
 
 **Back-end:**  
-Node.js, Express, Java, Python, C  
-MySQL, MongoDB, HeidiSQL  
-AWS (Cognito, DynamoDB, S3)
+Languages & Frameworks: Node.js, Express, Java, Python, C  
+Database: MySQL, MongoDB, HeidiSQL  
+Cloud: AWS (Cognito, DynamoDB, S3)
 
 **DevOps & Tools:**  
 Git, Docker, Postman  
