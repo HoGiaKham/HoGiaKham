@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hồ Gia Khâm</h1>
-<h3 align="center">Software Engineering Intern | Final-year Student at IUH</h3>
+<h3 align="center">Intern Developer | Final-year Student at IUH</h3>
 
 ---
 
