@@ -4,7 +4,7 @@
 ---
 
 🎓 Final-year Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**  
-🚀 Seeking a Software Engineering Internship (Frontend / Backend / Fullstack)  
+🚀 Seeking a Software Engineering (Frontend / Backend / Fullstack)  
 💡 Passionate about building user-centric, practical web applications
 
 ---
