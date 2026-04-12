@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hồ Gia Khâm</h1>
-<h3 align="center">FullStack Developer | Final-year Student waiting diplomas at IUH</h3>
+<h3 align="center">FullStack Developer</h3>
 
 ---
 
-🎓 Final-year Software Engineering student at **Industrial University of Ho Chi Minh City (IUH)**  
 🚀 Seeking a Software Engineering (Frontend / Backend / Fullstack)  
 💡 Passionate about building user-centric, practical web applications
 
