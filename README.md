@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hồ Gia Khâm</h1>
-<h3 align="center">Fullstack Developer (Strong Frontend - ReactJS / Next.js)</h3>
+<h3 align="center">Fullstack Developer (Strong Frontend - ReactJS / Next.js) | Technical Business Analyst</h3>
 
 ---
 
