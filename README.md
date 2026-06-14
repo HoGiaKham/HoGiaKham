@@ -3,31 +3,25 @@
 
 ---
 
-🚀 I am a Junior Fullstack Developer with a strong focus on building modern, scalable web applications using ReactJS and Next.js.  
-💡 Passionate about creating user-friendly interfaces, integrating APIs, and writing clean, maintainable code.  
-🎯 Currently seeking opportunities as a **Frontend / Fullstack Developer**
+🚀 I have a Software Engineering background with hands-on experience in web and mobile application development.
+💡 Experienced in collaborating with stakeholders, analyzing requirements, designing system workflows, and implementing solutions using modern web technologies.
+🎯 Currently seeking opportunities as a Business Analyst, Technical Business Analyst, Frontend Developer, or Fullstack Developer.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Business Analysis & Technical Skills
 
-**Frontend:**  
-ReactJS, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, TailwindCSS  
+**Business Analysis:**  
+Requirement Analysis, Process Analysis, Stakeholder Communication, Feature Validation, Agile/Scrum
 
-**State Management:**  
-React Hooks, Context API, React Query, Zustand  
+**Technical Knowledge:**  
+REST API Analysis, Database Design & SQL, System Analysis, Software Development Lifecycle (SDLC), Web & Mobile Application Development
 
-**Backend:**  
-Node.js, NestJS, Express  
+**Development Technologies:**  
+ReactJS, Next.js, JavaScript (ES6+), TypeScript, Node.js, NestJS, React Native, MySQL, MongoDB, AWS (Cognito, DynamoDB, S3), Docker, Git, Postman
 
 **Database:**  
 MySQL, MongoDB  
-
-**Cloud & DevOps:**  
-AWS (Cognito, DynamoDB, S3), Docker  
-
-**Tools:**  
-Git, Postman, Vercel, Render  
 
 ---
 
@@ -35,36 +29,40 @@ Git, Postman, Vercel, Render
 
 **Fullstack Web Developer** – *AGRIZEN Corporation*  
 📅 Nov 2025 – Feb 2026  
-- Developed fullstack features using **Next.js & NestJS** for internal workflow system  
-- Built reusable UI components and managed complex application state  
-- Designed RESTful APIs for user activities and content interactions  
-- Integrated frontend with backend for smooth data flow and UX  
+- Collaborated with business users and developers to understand workflow requirements
+- Analyzed business processes and translated requirements into system features
+- Developed and maintained fullstack features using Next.js and NestJS
+- Participated in database design and application workflow planning
+- Coordinated frontend-backend integration to ensure business requirements were fulfilled
+- Supported testing, bug analysis, and feature validation
 
 **Mobile Developer Intern** – *FPT Information System (FIS)*  
 📅 Jul 2025 – Sep 2025  
-- Developed mobile features using **React Native & Expo**  
-- Built UI components and integrated APIs  
-- Worked in Agile environment (daily stand-up, sprint tasks)  
-- Collaborated with backend team to optimize API performance  
+- Participated in Agile development processes and daily stand-up meetings
+- Collaborated with developers to clarify feature requirements
+- Developed mobile application features using React Native and Expo
+- Analyzed API specifications and supported testing activities
+- Contributed to improving user experience through feedback and requirement discussions
 
 ---
 
 ### 📌 Featured Projects
 
 #### 💻 [LaptopShop – E-commerce Website](https://github.com/HoGiaKham/LapTopStore)
-- Built responsive UI using **ReactJS & TailwindCSS**  
-- Implemented cart, order, and payment features  
-- Integrated REST APIs using Axios  
-- Applied component-based architecture and reusable UI  
+- Analyzed e-commerce workflows including product browsing, cart management, ordering, and payment processes
+- Defined and validated functional requirements
+- Built responsive user interfaces using ReactJS and TailwindCSS
+- Integrated RESTful APIs and collaborated through Git-based workflows
+**Technologies**: ReactJS, JavaScript, TailwindCSS, Axios, Git
 
 ---
 
 #### 💬 [ZalaChat – Real-time Chat Application](https://github.com/HoGiaKham/ZalaChat)
-- Developed real-time chat app (1-1, group chat, video call)  
-- Frontend: **ReactJS (Hooks, Context)**  
-- Backend: **Node.js, Socket.IO**  
-- Used **AWS Cognito & DynamoDB** for authentication and data storage  
-- Improved UX with animations and smooth transitions  
+- Analyzed user communication requirements and messaging workflows
+- Designed feature flows for authentication, messaging, and video calling
+- Developed real-time communication features using Socket.IO
+- Evaluated user experience and proposed usability improvements
+**Technologies**: ReactJS, Node.js, Socket.IO, AWS Cognito, DynamoDB, TailwindCSS
 
 ---
 
@@ -96,7 +94,8 @@ Major: Software Engineering
 
 - 📧 Email: **hogiakham1705@gmail.com**  
 - 📱 Phone: **0343769126**  
-- 💻 GitHub: https://github.com/HoGiaKham  
+- 💻 GitHub: https://github.com/HoGiaKham
+- 🌐 Portfolio: https://hogiakham.vercel.app
 - 📍 Location: Thu Duc City, Ho Chi Minh City  
 
 ---
