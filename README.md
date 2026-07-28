@@ -1,103 +1,152 @@
 <h1 align="center">Hi 👋, I'm Hồ Gia Khâm</h1>
-<h3 align="center">Fullstack Developer (Strong Frontend - ReactJS / Next.js) | Technical Business Analyst</h3>
+
+<h3 align="center">
+Fullstack Developer | React • Next.js • NestJS
+</h3>
 
 ---
 
-🚀 I have a Software Engineering background with hands-on experience in web and mobile application development.
-💡 Experienced in collaborating with stakeholders, analyzing requirements, designing system workflows, and implementing solutions using modern web technologies.
-🎯 Currently seeking opportunities as a Business Analyst, Technical Business Analyst, Frontend Developer, or Fullstack Developer.
+## 🚀 About Me
+
+I'm a Fullstack Developer with hands-on experience building enterprise web applications and modern full-stack systems.
+
+I have practical experience developing responsive user interfaces, RESTful APIs, database-driven applications, and real-time features using React, Next.js, Node.js, NestJS, PostgreSQL, and MongoDB.
+
+I'm passionate about writing clean, maintainable code, learning modern technologies, and building software that solves real business problems.
+
+Currently seeking opportunities as a **Fresher/Junior Frontend Developer** or **Fullstack Developer**.
 
 ---
 
-### 🛠️ Business Analysis & Technical Skills
+## 🛠 Tech Stack
 
-**Business Analysis:**  
-Requirement Analysis, Process Analysis, Stakeholder Communication, Feature Validation, Agile/Scrum
+### Frontend
 
-**Technical Knowledge:**  
-REST API Analysis, Database Design & SQL, System Analysis, Software Development Lifecycle (SDLC), Web & Mobile Application Development
+- ReactJS
+- Next.js
+- TypeScript
+- JavaScript (ES6+)
+- TailwindCSS
+- React Native
 
-**Development Technologies:**  
-ReactJS, Next.js, JavaScript (ES6+), TypeScript, Node.js, NestJS, React Native, MySQL, MongoDB, AWS (Cognito, DynamoDB, S3), Docker, Git, Postman
+### Backend
 
-**Database:**  
-MySQL, MongoDB  
+- Node.js
+- ExpressJS
+- NestJS
 
----
+### Database
 
-### 💼 Work Experience
+- PostgreSQL
+- MongoDB
+- MySQL
 
-**Fullstack Web Developer** – *AGRIZEN Corporation*  
-📅 Nov 2025 – Feb 2026  
-- Collaborated with business users and developers to understand workflow requirements
-- Analyzed business processes and translated requirements into system features
-- Developed and maintained fullstack features using Next.js and NestJS
-- Participated in database design and application workflow planning
-- Coordinated frontend-backend integration to ensure business requirements were fulfilled
-- Supported testing, bug analysis, and feature validation
+### Cloud & Tools
 
-**Mobile Developer Intern** – *FPT Information System (FIS)*  
-📅 Jul 2025 – Sep 2025  
-- Participated in Agile development processes and daily stand-up meetings
-- Collaborated with developers to clarify feature requirements
-- Developed mobile application features using React Native and Expo
-- Analyzed API specifications and supported testing activities
-- Contributed to improving user experience through feedback and requirement discussions
+- AWS (Cognito, DynamoDB, S3)
+- Socket.IO
+- Docker
+- Git
+- Postman
+- Vercel
+- Render
 
 ---
 
-### 📌 Featured Projects
+## 💼 Experience
 
-#### 💻 [LaptopShop – E-commerce Website](https://github.com/HoGiaKham/LapTopStore)
-- Analyzed e-commerce workflows including product browsing, cart management, ordering, and payment processes
-- Defined and validated functional requirements
-- Built responsive user interfaces using ReactJS and TailwindCSS
-- Integrated RESTful APIs and collaborated through Git-based workflows
-**Technologies**: ReactJS, JavaScript, TailwindCSS, Axios, Git
+### Fullstack Web Developer — AGRIZEN Corporation
 
----
+**Nov 2025 – Feb 2026**
 
-#### 💬 [ZalaChat – Real-time Chat Application](https://github.com/HoGiaKham/ZalaChat)
-- Analyzed user communication requirements and messaging workflows
-- Designed feature flows for authentication, messaging, and video calling
-- Developed real-time communication features using Socket.IO
-- Evaluated user experience and proposed usability improvements
-**Technologies**: ReactJS, Node.js, Socket.IO, AWS Cognito, DynamoDB, TailwindCSS
+- Developed and maintained Product and Inventory Management modules using Next.js, NestJS, PostgreSQL, and TypeORM.
+- Implemented new features, fixed production bugs, and improved business workflows across ERP modules.
+- Performed database schema migrations and optimized TypeORM entities and queries.
+- Built reusable UI components and maintained RESTful APIs.
 
 ---
 
-### 🎓 Education
+### Mobile Developer Intern — FPT Information System (FIS)
 
-**Industrial University of Ho Chi Minh City (IUH)**  
-📅 2021 – 2026  
-Major: Software Engineering  
+**Jul 2025 – Sep 2025**
 
----
-
-### 🌐 Languages
-
-- Vietnamese: Native  
-- English: Intermediate  
+- Maintained and enhanced React Native applications.
+- Developed reusable modules for a Super App architecture.
+- Integrated RESTful APIs and implemented frontend features.
+- Researched Zustand and Storybook for reusable component development.
 
 ---
 
-### 🤝 Soft Skills
+## 📌 Featured Projects
 
-- Team Collaboration  
-- Problem Solving  
-- Self-learning & Adaptability  
-- Presentation  
+### 🎓 EDUTEST ONLINE
+
+Full-stack online examination platform.
+
+**Highlights**
+
+- Role-Based Access Control (RBAC)
+- Claude AI Integration
+- Real-time Chat
+- Online Exam System
+- Auto Grading
+- Statistical Dashboard
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Socket.IO • Claude API
 
 ---
 
-### 📫 Contact
+### 💬 ZALACHAT
 
-- 📧 Email: **hogiakham1705@gmail.com**  
-- 📱 Phone: **0343769126**  
-- 💻 GitHub: https://github.com/HoGiaKham
-- 🌐 Portfolio: https://hogiakham.vercel.app
-- 📍 Location: Thu Duc City, Ho Chi Minh City  
+Real-time chat application supporting messaging and video calls.
+
+**Highlights**
+
+- Socket.IO
+- AWS Cognito
+- DynamoDB
+- Media Sharing
+- Authentication
 
 ---
 
-✨ *Always eager to learn, improve, and contribute to real-world products.*
+### 🛒 LaptopStore
+
+E-commerce website for laptop sales.
+
+**Highlights**
+
+- JWT Authentication
+- Shopping Cart
+- Admin Dashboard
+- AI Chatbot
+
+---
+
+## 🎓 Education
+
+**Industrial University of Ho Chi Minh City (IUH)**
+
+Software Engineering
+
+2021 – 2026
+
+---
+
+## 📫 Contact
+
+📧 Email: hogiakham1705@gmail.com
+
+🌐 Portfolio: https://hogiakham.vercel.app
+
+💻 GitHub: https://github.com/HoGiaKham
+
+💼 LinkedIn: https://linkedin.com/in/hogiakham
+
+📍 Thu Duc City, Ho Chi Minh City
+
+---
+
+⭐ Always eager to learn, build meaningful products, and continuously improve as a software engineer.
